@@ -1,0 +1,42 @@
+CSV list of data...
+
+
+
+1, Cheshire Anti-Slavery Network, Subregional
+
+
+
+84, Northamptonshire Modern Slavery Group, Subregional
+
+
+
+85, North Yorkshire Anti-Trafficking Practitioners Working Group, Subregional
+
+
+
+86, Slough Modern Slavery and Exploitation Group, Local
+
+
+
+87, Test Slough Modern Slavery and Exploitation Group, Local
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NB:
+- dont want ALL pages, just partnership ones ie ones with IDs
+ - put these in a collection?
+- better way to build CSV (ie escape commas?)
+

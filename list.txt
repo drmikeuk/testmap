@@ -1,0 +1,18 @@
+---
+layout: text
+title: Text list
+---
+
+CSV list of data...
+
+{% for page in site.pages %}
+{% if page.id %}
+{{ page.id }}, {{ page.title }}, {{ page.area }}
+{% endif %}
+{% endfor %}
+
+
+NB:
+- dont want ALL pages, just partnership ones ie ones with IDs
+ - put these in a collection?
+- better way to build CSV (ie escape commas?)

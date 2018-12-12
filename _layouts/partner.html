@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<h2>{{ page.title }}</h2>
+
+<dl class="dl-horizontal">
+	<dt>Area</dt>
+	<dd>{{ page.area }}</dd>
+
+	<dt>Chaired by</dt>
+	<dd>{{ page.chaired }}</dd>
+
+	<dt>Coordinated by</dt>
+	<dd>{{ page.coordinated }}</dd>
+</dl>
+
+{% if page.contact %}
+<p><b>Contact for further information: <a href="mailto:{{ page.contact }}">{{ page.contact }}</a></b></p>
+{% endif %}
+
+
+{% if page.activities %}
+<h2>Activities from metadata</h2>
+<ul>
+{% for activity in page.activities %}
+  <li>{{ activity }}</li>
+{% endfor %}
+</ul>
+{% endif %}
+
+
+{{ content }}
+
+{% if page.governance %}
+<h2>Governance document</h2>
+<p><a href="{{ page.governance }}">View governance document</a> (pdf)</p>
+{% endif %}
+
+
+
