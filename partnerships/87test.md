@@ -1,16 +1,17 @@
 ---
-layout: 		partner
-id: 			87
-title: 			Test Slough Modern Slavery and Exploitation Group
-area: 			Local
-chaired: 		Local Authority (top tier)
-coordinated:	Local Authority (top tier)
+layout: partner
+id: 87
+title: Test Slough Modern Slavery and Exploitation Group
+area: Local
+chaired: Local Authority (top tier)
+coordinated: Local Authority (top tier)
 activities:
   - Community awareness-raising
   - Frontline staff training
   - Intelligence sharing
   - Planning for joint enforcement
   - Monitoring and analysis of progress
+published: true
 ---
 
 Members
@@ -21,4 +22,4 @@ Thames Valley Police; Hope For Justice; Clinical Commissioning Group Immigration
 Objectives
 ----------
 
-To ensure that the priorities of the Anti-Slavery Commissioner are applied in the local area.  To support a multi-agency response to modern slavery and exploitation.
+To ensure that the priorities of the Anti-Slavery Commissioner are applied in the local area.  To support a multi-agency response to modern slavery and exploitation. and some more stuff here
