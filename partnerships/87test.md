@@ -9,8 +9,8 @@ activities:
   - Community awareness-raising
   - Frontline staff training
   - Intelligence sharing
-  - Planning for joint enforcement
   - Monitoring and analysis of progress
+  - Planning for joint enforcement
 published: true
 ---
 
@@ -23,3 +23,8 @@ Objectives
 ----------
 
 To ensure that the priorities of the Anti-Slavery Commissioner are applied in the local area.  To support a multi-agency response to modern slavery and exploitation. and some more stuff here
+
+- list
+- of
+- other
+
