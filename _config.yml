@@ -114,7 +114,7 @@ prose:
              value: "Rotates"
            - name: "To be determined"
              value: "To be determined"
-      - name: "activites"
+      - name: "activities"
         field:
           element: "multiselect"
           label: "Activities"
@@ -139,4 +139,4 @@ prose:
            - name: "Supply chains analysis"
              value: "Supply chains analysis"
            - name: "Survivor support"
-             value: "Survivor support"                                                    
+             value: "Survivor support"
