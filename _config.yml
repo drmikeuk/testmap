@@ -31,15 +31,18 @@ prose:
       - name: "title"
         field:
           element: "text"
+          label: "Partnership"
           help: "Name of Partnership"
       - name: "id"
         field:
           element: "number"
+          label: "ID"
           help: "Internal identifier; incrementing number - check which is next at <insert url>"
       - name: "area"
         field:
           element: "select"
-          help: "Scope of area covered <add definition re regional?>"
+          label: "Area"
+          help: "Scope of area covered NB. add definition re regional?"
           options:
            - name: "Regional"
              value: "Regional"
